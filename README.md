@@ -24,7 +24,7 @@ Sentry Landing Page is a modern, visually appealing landing page inspired by the
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/sentry-landingpage.git
+git clone https://github.com/ShivanshKumar760/Sentry-LandingPage.git
 cd sentry-landingpage
 ```
 
@@ -74,7 +74,7 @@ The application will be available at [http://localhost:3000](http://localhost:30
 
 ## **Live Project**
 - [Visit Sentry Landing Page](https://sentry-landingpage.example.com)
-- [GitHub Repository](https://github.com/your-username/sentry-landingpage)
+- [GitHub Repository](https://github.com/ShivanshKumar760/Sentry-LandingPage.git)
 
 ---
 
