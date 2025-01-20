@@ -77,7 +77,7 @@ The application will be available at [http://localhost:3000](http://localhost:30
 ---
 
 ## **Live Project**
-- [Visit Sentry Landing Page](https://sentry-landingpage.example.com)
+- [Visit Sentry Landing Page](https://sentry-landingpage.vercel.app/)
 - [GitHub Repository](https://github.com/ShivanshKumar760/Sentry-LandingPage.git)
 
 ---
