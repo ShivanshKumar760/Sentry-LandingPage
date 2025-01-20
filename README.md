@@ -1,3 +1,7 @@
+![Header Section](https://github.com/ShivanshKumar760/Sentry-LandingPage/blob/master/image/Header.png)
+![Section](https://github.com/ShivanshKumar760/Sentry-LandingPage/blob/master/image/Section.png)
+![Story](https://github.com/ShivanshKumar760/Sentry-LandingPage/blob/master/image/Story.png)
+
 # **Sentry Landing Page**
 
 Sentry Landing Page is a modern, visually appealing landing page inspired by the **Zentry** website ([https://zentry.com/](https://zentry.com/)). This project is built using **React** for the frontend and **Tailwind CSS** for styling, with immersive animations powered by **GSAP (GreenSock Animation Platform)**.
